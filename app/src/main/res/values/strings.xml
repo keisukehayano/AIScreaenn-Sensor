@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AIScreaenn-Sensor</string>
+    <string name="tv_timePoint">5秒ごとのポイント</string>
+    <string name="tv_urlTitle">送信先URL</string>
+    <string name="tv_geturl">取得先URL</string>
+    <string name="bt_regist">REGIST</string>
+    <string name="tv_tostInsert">登録しました。</string>
+    <string name="tv_tostUpdate">更新しました。</string>
+</resources>
